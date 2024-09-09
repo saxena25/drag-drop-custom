@@ -1,0 +1,23 @@
+/* .app-wrapper{
+    width: 100%;
+} */
+
+.app{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+    height: 90vh;
+    margin: auto;
+    /* border: 1px solid black; */
+    margin-top: 2rem;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.divider{
+    height: 85vh;
+    width: 1px;
+    background-color: black;
+    margin: 1rem 0;
+}

@@ -1,0 +1,9 @@
+/* .column-wrapper{
+    display: flex;
+    flex-direction: column;
+} */
+ .column-title{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bolder;
+ }
